@@ -1,17 +1,24 @@
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20Everyone!&fontSize=50&fontAlignY=40&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey%20Everyone!🕹️&fontSize=45&fontAlignY=35&animation=twinkling" />
 </p>
 
+<!-- Animated GIF (Resized for Better Fit) -->
 <p align="center">
-  <img src="https://github.com/LeiyJames/LeiyJames/blob/main/lucky%20star%20wink%20GIF.gif" alt="Hey Everyone!" width="100%" />
+  <img src="https://github.com/LeiyJames/LeiyJames/blob/main/lucky%20star%20wink%20GIF.gif" width="60%" alt="Lucky Star Wink GIF"/>
 </p>
-
-
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your_twitter/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=web&logoColor=white)](https://yourportfolio.com)  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/your_twitter" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="50" height="50"/>
+  </a>
+</p>
 
 ---
 
