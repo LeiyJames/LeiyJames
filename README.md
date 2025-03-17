@@ -1,9 +1,6 @@
-# Welcome to My GitHub Profile! ❄️  
-
-![Header](https://your-custom-banner-url.com) <!-- Replace with a custom image -->
-
-![Hey Everyone!](https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,100:00ffff&height=200&section=header&text=Hey%20Everyone!&fontSize=50&fontAlignY=40&animation=twinkling)
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
