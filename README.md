@@ -14,13 +14,15 @@
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://twitter.com/your_twitter" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="50" height="50"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https:
-
+  &nbsp;
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-portfolio-notifications-justicon-flat-justicon.png" alt="Portfolio" width="50" height="50"/>
+  </a>
+</p>
 
 ---
 
