@@ -61,12 +61,12 @@
 
 ### 🚀 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeiyJames&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ### 📊 GitHub Streak  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_github_username&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeiyJames&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ### 🏆 GitHub Trophies  
