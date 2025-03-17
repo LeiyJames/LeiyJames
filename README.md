@@ -69,6 +69,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeiyJames&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+### 🌍 Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</p>
+
 ### 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LeiyJames&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
