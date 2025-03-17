@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://imgur.com/a/T5MCLrL" alt="Hey Everyone!" width="100%" />
+  <img src="https://github.com/LeiyJames/LeiyJames/blob/main/lucky%20star%20wink%20GIF.gif" alt="Hey Everyone!" width="100%" />
 </p>
 
 
