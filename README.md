@@ -89,3 +89,7 @@
   ![snake gif](https://github.com/LeiyJames/LeiyJames/blob/output/github-snake-dark.svg)
 </div>
 
+<!-- Bottom Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
+</p>
