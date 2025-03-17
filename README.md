@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://your-gif-url.com/banner.gif" alt="Hey Everyone!" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey%20Everyone!&fontSize=50&fontAlignY=40&animation=twinkling" />
 </p>
+
+<p align="center">
+  <img src="https://imgur.com/a/T5MCLrL" alt="Hey Everyone!" width="100%" />
+</p>
+
 
 
 ## 🌐 Connect with Me  
