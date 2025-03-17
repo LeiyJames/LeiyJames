@@ -12,62 +12,74 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/your_twitter" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="50" height="50"/>
-  </a>
-  &nbsp;
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-portfolio-notifications-justicon-flat-justicon.png" alt="Portfolio" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
-🚀 Hi! I'm [Your Name], a **passionate Software QA Tester** with a keen eye for detail and a love for automation.  
-💡 My expertise includes **manual testing, automation frameworks, and CI/CD pipelines.**  
+🚀 Hi! I'm Leigh James Presno, a **passionate Software QA Tester** with a keen eye for detail and a love for manual and basic automation💡 My expertise includes **manual testing and basic automation frameworks.**  
 📖 Always learning and exploring new testing methodologies and tools!  
 
 ---
 
-## 🧰 Tools & Tech Stack  
+## 🛠️ Tools & Tech Stack  
 
-### 🔍 Testing & Automation  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" title="Cypress" alt="Cypress" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-</p>  
+<p align="center">
+  <!-- Trello -->
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 
-### 🛠️ DevOps & CI/CD  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub Actions" alt="GitHub Actions" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" title="AWS" alt="AWS" width="50" height="50"/>&nbsp;
-</p>  
+  <!-- Slack -->
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 
-### 📝 Test Management  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="JIRA" alt="JIRA" width="50" height="50"/>&nbsp;
-  <img src="https://img.icons8.com/color/50/000000/testrail.png" title="TestRail" alt="TestRail" width="50" height="50"/>&nbsp;
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/postman-api.png" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
-</p>  
+  <!-- Playwright -->
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+
+  <!-- Chrome DevTools -->
+  <img src="https://img.shields.io/badge/Chrome DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+
+  <!-- XAMPP -->
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+
+  <!-- Postman -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+  <!-- MySQL -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <!-- Xray Exploratory -->
+  <img src="https://img.shields.io/badge/Xray-34A853?style=for-the-badge&logo=xray&logoColor=white" />
+
+  <!-- Burp Suite -->
+  <img src="https://img.shields.io/badge/Burp Suite-F57600?style=for-the-badge&logo=burp-suite&logoColor=white" />
+</p>
 
 ---
 
 ## 📈 My GitHub History  
 
-### 🎵 Currently Listening to:  
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_username&cover_image=true&theme=default)](https://open.spotify.com/user/your_spotify_username)  
+### 🚀 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-### 🚀 GitHub Stats:  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=tokyonight)  
+### 📊 GitHub Streak  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_github_username&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+### 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your_github_username&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+### 🎵 Currently Listening to:  
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_username&cover_image=true&theme=default" alt="Spotify Now Playing" />
+</p>
 
 ### 🐍 My Contributions:  
-![Snake Game](https://github.com/your_github_username/your_github_username/blob/output/github-contribution-grid-snake.svg)  
+<p align="center">
+  <img src="https://github.com/your_github_username/your_github_username/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Game" />
+</p>
