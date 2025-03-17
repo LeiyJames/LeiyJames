@@ -2,6 +2,9 @@
 
 ![Header](https://your-custom-banner-url.com) <!-- Replace with a custom image -->
 
+![Hey Everyone!](https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,100:00ffff&height=200&section=header&text=Hey%20Everyone!&fontSize=50&fontAlignY=40&animation=twinkling)
+
+
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/your_twitter/)  
