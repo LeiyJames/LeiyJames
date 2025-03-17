@@ -59,19 +59,24 @@
 
 ## 📈 My GitHub History  
 
-### 🚀 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeiyJames&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/your_github_username">
+        <img src="https://github-readme-stats.vercel.app/api?username=LeiyJames&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/your_github_username">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeiyJames&layout=compact&theme=tokyonight" alt="Most Used Languages" height="180"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### 📊 GitHub Streak  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeiyJames&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-### 🌍 Most Used Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeiyJames&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ### 🏆 GitHub Trophies  
@@ -79,8 +84,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=LeiyJames&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
-
 ### 🐍 My Contributions:  
 <p align="center">
   <img src="https://github.com/your_github_username/your_github_username/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Game" />
 </p>
+
