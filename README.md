@@ -71,13 +71,9 @@
 
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your_github_username&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LeiyJames&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
-### 🎵 Currently Listening to:  
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_username&cover_image=true&theme=default" alt="Spotify Now Playing" />
-</p>
 
 ### 🐍 My Contributions:  
 <p align="center">
