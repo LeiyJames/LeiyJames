@@ -5,7 +5,7 @@
 
 <!-- Animated GIF (Resized for Better Fit) -->
 <p align="center">
-  <img src="https://github.com/LeiyJames/LeiyJames/blob/main/lucky%20star%20wink%20GIF.gif" width="60%" alt="Lucky Star Wink GIF"/>
+  <img src="https://github.com/LeiyJames/LeiyJames/blob/main/lucky%20star%20wink%20GIF.gif" width="50%" alt="Lucky Star Wink GIF"/>
 </p>
 
 ## 🌐 Connect with Me  
@@ -71,7 +71,7 @@
 
 ### 🌍 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeiyJames&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ### 🏆 GitHub Trophies  
