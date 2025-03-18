@@ -59,20 +59,15 @@
 
 ## 📈 My GitHub History  
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/your_github_username">
-        <img src="https://github-readme-stats.vercel.app/api?username=LeiyJames&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/your_github_username">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeiyJames&layout=compact&theme=tokyonight" alt="Most Used Languages" height="180"/>
-      </a>
-    </td>
-  </tr>
-</table>
+### 🚀 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeiyJames&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+### 🌍 Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeiyJames&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</p>
 
 ### 📊 GitHub Streak  
 <p align="center">
