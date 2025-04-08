@@ -19,8 +19,11 @@
 ---
 
 ## 👨‍💻 About Me  
-🚀 Hi! I'm Leigh James Presno, a **passionate Software QA Tester** with a keen eye for detail and a love for manual and basic automation💡 My expertise includes **manual testing and basic automation frameworks.**  
-📖 Always learning and exploring new testing methodologies and tools!  
+👋 Hi there! I’m a passionate Software QA Tester who’s all about breaking things (before users do). With a sharp eye for detail and a curiosity that never quits, I love diving deep into apps and web systems to ensure everything runs smoothly. 
+
+<br>💻 I specialize in manual and basic automated testing, with hands-on experience using tools like Playwright or Selenium. Whether it’s functional, regression, unit testing, cross-browser testing  or exploratory testing—I thrive on the hunt for bugs and edge cases.
+
+<br>Let’s ship better software together—clean, tested, and user-ready. ✅
 
 ---
 
