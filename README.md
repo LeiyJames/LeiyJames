@@ -56,6 +56,37 @@
 
   <!-- Burp Suite -->
   <img src="https://img.shields.io/badge/Burp Suite-F57600?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  
+  <!-- HTML -->
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+<!-- CSS -->
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<!-- JavaScript -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<!-- TypeScript -->
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+<!-- React -->
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
+<!-- Tailwind CSS -->
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+<!-- Vercel -->
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+<!-- Supabase -->
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+
+<!-- Cursor -->
+<img src="https://img.shields.io/badge/Cursor-2496ED?style=for-the-badge&logo=cursor&logoColor=white" />
+
+<!-- VS Code -->
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
 </p>
 
 ---
