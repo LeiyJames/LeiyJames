@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20Everyone!🕹️&fontSize=45&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Know%20Me!🕹️&fontSize=45&fontAlignY=35&animation=twinkling" />
 </p>
 
 <!-- Animated GIF (Resized for Better Fit) -->
