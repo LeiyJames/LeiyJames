@@ -21,34 +21,9 @@
 
 ---
 
-## 👤 Quick Snapshot
+## 🎯 Focus in One Breath
 
-- QA tester who balances exploratory depth with basic automation.
-- Frontend dev shaping lightweight MVPs, funnels, and booking flows.
-- Data wrangler who keeps evidence tidy so decisions stay clear.
-
----
-
-## 🧪 QA in Three Moves
-
-- Cover the basics: blackbox, functional, usability, UI, smoke, sanity.
-- Stretch for risk: regression maps, exploratory dives, light security pokes.
-- Share cleanly: tight bug writeups, measurable test cases, fast sync notes.
-
----
-
-## 🎨 Frontend Priorities
-
-- Ship SvelteKit experiences with Tailwind, Skeleton UI, Motion One polish.
-- Tune funnels and booking flows for clarity, validation, and analytics hooks.
-- Pivot to Next.js/React/Vite when teams need cross-stack support.
-
----
-
-## ✨ Data Habits
-
-- Clean and organize QA artifacts before they ever hit a report.
-- Automate spreadsheets/Notion/Trello handoffs so signal stays high.
+Cover the core QA surface (blackbox, functional, usability, UI, smoke, sanity), stretch into regression maps, exploratory dives, and light security pokes, keep bug writeups/test cases crisp, ship SvelteKit experiences with Tailwind, Skeleton UI, Motion One polish, tune funnels + booking flows for clarity/validation/analytics, pivot to Next.js, React, or Vite when needed, and keep QA artifacts clean plus automated across spreadsheets, Notion, and Trello before they ever become reports.
 
 ---
 
