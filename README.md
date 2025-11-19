@@ -23,7 +23,7 @@
 
 ## 👤 Quick Snapshot
 
-- QA tester who balances exploratory depth with calm automation.
+- QA tester who balances exploratory depth with basic automation.
 - Frontend dev shaping lightweight MVPs, funnels, and booking flows.
 - Data wrangler who keeps evidence tidy so decisions stay clear.
 
