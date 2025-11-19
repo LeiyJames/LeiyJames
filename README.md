@@ -1,127 +1,139 @@
-<!-- Animated Header -->
+<!-- Hero -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Know%20Me!🕹️&fontSize=45&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Know%20Me!🕹️&fontSize=45&fontAlignY=35&animation=twinkling" alt="Banner"/>
 </p>
 
-<!-- Animated GIF (Resized for Better Fit) -->
 <p align="center">
-  <img src="https://github.com/LeiyJames/LeiyJames/blob/main/lucky%20star%20wink%20GIF.gif" width="50%" alt="Lucky Star Wink GIF"/>
+  <img src="https://github.com/LeiyJames/LeiyJames/blob/main/lucky%20star%20wink%20GIF.gif" width="45%" alt="Lucky Star Wink GIF"/>
 </p>
 
-## 🌐 Connect with Me  
+<h1 align="center">Software QA · Frontend Developer · Data Wrangler</h1>
+
+<p align="center">
+  Testing digital experiences end-to-end while crafting performant, human-centered interfaces powered by modern web stacks.
+</p>
+
+<p align="center">
+  <a href="mailto:leighpresno@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/leigh-james-presno-591468333/" target="_blank" rel="noopener noreferrer">LinkedIn</a> ·
+  <a href="https://github.com/LeiyJames" target="_blank" rel="noopener noreferrer">GitHub</a>
+</p>
+
+---
+
+## 👤 About Me
+
+- 🧪 Software QA Tester pairing deep manual coverage with lean automation.
+- 🧭 Frontend Developer building SvelteKit MVPs, marketing funnels, and booking flows.
+- 🧹 Data prep enthusiast who keeps QA evidence structured, queryable, and story-ready.
+- 🚀 Mission: deliver predictable releases with delightful UI polish.
+
+---
+
+## 🧪 Software QA Focus
+
+- Blackbox testing across web + API touchpoints
+- Functional, usability, UI validation, smoke, sanity, regression coverage
+- Exploratory testing rituals to chase edge cases
+- Bug tracking, impact narratives, and stakeholder-ready test reports
+- Test case creation with measurable acceptance criteria
+- Lightweight security probing (input fuzzing, auth/role checks)
+
+---
+
+## 🎨 Frontend Delivery
+
+- MVP builds that validate product hypotheses fast
+- Funnel and sales sites optimized for conversions + analytics clarity
+- Booking-ready frontends (availability views, form validation, scheduling logic)
+- Preferred stack: SvelteKit + Tailwind + Skeleton UI + Motion One
+- Comfortable shifting into Next.js, React, or Vite when projects demand
+
+---
+
+## ✨ Data Cleaning & Ops
+
+- Data cleaning pipelines for QA artifacts, metrics, and dashboards
+- Data organization for test evidence, regression suites, and stakeholder updates
+- Spreadsheet + Notion + Trello automations to keep signal high
+
+---
+
+## 🌐 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leigh-james-presno-591468333/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me  
-👋 Hi there! I’m a passionate Software QA Tester who’s all about breaking things (before users do). With a sharp eye for detail and a curiosity that never quits, I love diving deep into apps and web systems to ensure everything runs smoothly. 
-
-<br>💻 I specialize in manual and basic automated testing, with hands-on experience using tools like Playwright or Selenium. Whether it’s functional, regression, unit testing, cross-browser testing  or exploratory testing—I thrive on the hunt for bugs and edge cases.
-
-<br>Let’s ship better software together—clean, tested, and user-ready. ✅
-
----
-
-## 🛠️ Tools & Tech Stack  
+## 🧰 Tools & Tech
 
 <p align="center">
-  <!-- Trello -->
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-
-  <!-- Slack -->
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-
-  <!-- Playwright -->
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-
-  <!-- Chrome DevTools -->
-  <img src="https://img.shields.io/badge/Chrome DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-
-  <!-- XAMPP -->
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
-
-  <!-- Postman -->
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
-  <!-- MySQL -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-  <!-- Xray Exploratory -->
-  <img src="https://img.shields.io/badge/Xray-34A853?style=for-the-badge&logo=xray&logoColor=white" />
-
-  <!-- Burp Suite -->
-  <img src="https://img.shields.io/badge/Burp Suite-F57600?style=for-the-badge&logo=burp-suite&logoColor=white" />
-  
-  <!-- HTML -->
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-<!-- CSS -->
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-<!-- JavaScript -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-<!-- TypeScript -->
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-
-<!-- React -->
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-
-<!-- Tailwind CSS -->
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-<!-- Vercel -->
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-
-<!-- Supabase -->
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-
-<!-- Cursor -->
-<img src="https://img.shields.io/badge/Cursor-2496ED?style=for-the-badge&logo=cursor&logoColor=white" />
-
-<!-- VS Code -->
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome DevTools"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Xray-34A853?style=for-the-badge&logo=xray&logoColor=white" alt="Xray"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-F57600?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Cursor-2496ED?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+  <img src="https://img.shields.io/badge/Motion%20One-111111?style=for-the-badge&logo=framer&logoColor=white" alt="Motion One"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
 </p>
 
 ---
 
-## 📈 My GitHub History  
+## 📊 GitHub at a Glance
 
-### 🚀 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeiyJames&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeiyJames&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
-### 🌍 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeiyJames&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeiyJames&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
 </p>
 
-### 📊 GitHub Streak  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeiyJames&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeiyJames&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
-### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LeiyJames&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LeiyJames&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 <div align="center">
-  
-  ![snake gif](https://github.com/LeiyJames/LeiyJames/blob/output/github-snake-dark.svg)
+  <img src="https://github.com/LeiyJames/LeiyJames/blob/output/github-snake-dark.svg" alt="Contribution Snake"/>
 </div>
 
-<!-- Bottom Banner -->
+---
+
+## 🎯 Current Focus
+
+- Scaling regression libraries for booking-centric products.
+- Shipping SvelteKit MVPs with Motion One storytelling layers.
+- Automating QA data hygiene + evidence rollups for faster decision cycles.
+- Partnering with product + design on conversion-focused funnel UX.
+
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="Footer"/>
 </p>
+
