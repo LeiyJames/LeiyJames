@@ -21,41 +21,34 @@
 
 ---
 
-## 👤 About Me
+## 👤 Quick Snapshot
 
-- 🧪 Software QA Tester pairing deep manual coverage with lean automation.
-- 🧭 Frontend Developer building SvelteKit MVPs, marketing funnels, and booking flows.
-- 🧹 Data prep enthusiast who keeps QA evidence structured, queryable, and story-ready.
-- 🚀 Mission: deliver predictable releases with delightful UI polish.
-
----
-
-## 🧪 Software QA Focus
-
-- Blackbox testing across web + API touchpoints
-- Functional, usability, UI validation, smoke, sanity, regression coverage
-- Exploratory testing rituals to chase edge cases
-- Bug tracking, impact narratives, and stakeholder-ready test reports
-- Test case creation with measurable acceptance criteria
-- Lightweight security probing (input fuzzing, auth/role checks)
+- QA tester who balances exploratory depth with calm automation.
+- Frontend dev shaping lightweight MVPs, funnels, and booking flows.
+- Data wrangler who keeps evidence tidy so decisions stay clear.
 
 ---
 
-## 🎨 Frontend Delivery
+## 🧪 QA in Three Moves
 
-- MVP builds that validate product hypotheses fast
-- Funnel and sales sites optimized for conversions + analytics clarity
-- Booking-ready frontends (availability views, form validation, scheduling logic)
-- Preferred stack: SvelteKit + Tailwind + Skeleton UI + Motion One
-- Comfortable shifting into Next.js, React, or Vite when projects demand
+- Cover the basics: blackbox, functional, usability, UI, smoke, sanity.
+- Stretch for risk: regression maps, exploratory dives, light security pokes.
+- Share cleanly: tight bug writeups, measurable test cases, fast sync notes.
 
 ---
 
-## ✨ Data Cleaning & Ops
+## 🎨 Frontend Priorities
 
-- Data cleaning pipelines for QA artifacts, metrics, and dashboards
-- Data organization for test evidence, regression suites, and stakeholder updates
-- Spreadsheet + Notion + Trello automations to keep signal high
+- Ship SvelteKit experiences with Tailwind, Skeleton UI, Motion One polish.
+- Tune funnels and booking flows for clarity, validation, and analytics hooks.
+- Pivot to Next.js/React/Vite when teams need cross-stack support.
+
+---
+
+## ✨ Data Habits
+
+- Clean and organize QA artifacts before they ever hit a report.
+- Automate spreadsheets/Notion/Trello handoffs so signal stays high.
 
 ---
 
