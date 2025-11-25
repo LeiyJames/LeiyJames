@@ -71,33 +71,24 @@ Cover the core QA surface (blackbox, functional, usability, UI, smoke, sanity), 
 ## 📊 GitHub at a Glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeiyJames&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LeiyJames&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeiyJames&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeiyJames&layout=compact&theme=tokyonight&langs_count=8" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeiyJames&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=LeiyJames&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LeiyJames&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=LeiyJames&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 <div align="center">
   <img src="https://github.com/LeiyJames/LeiyJames/blob/output/github-snake-dark.svg" alt="Contribution Snake"/>
 </div>
-
----
-
-## 🎯 Current Focus
-
-- Scaling regression libraries for booking-centric products.
-- Shipping SvelteKit MVPs with Motion One storytelling layers.
-- Automating QA data hygiene + evidence rollups for faster decision cycles.
-- Partnering with product + design on conversion-focused funnel UX.
 
 ---
 
