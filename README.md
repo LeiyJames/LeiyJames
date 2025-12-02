@@ -71,11 +71,11 @@ Cover the core QA surface (blackbox, functional, usability, UI, smoke, sanity), 
 ## 📊 GitHub at a Glance
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LeiyJames&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-mu-ochre.vercel.app/api?username=LeiyJames&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeiyJames&layout=compact&theme=tokyonight&langs_count=8" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats-mu-ochre.vercel.app/api/top-langs/?username=LeiyJames&layout=compact&theme=tokyonight&langs_count=8&count_private=true" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
@@ -95,4 +95,3 @@ Cover the core QA surface (blackbox, functional, usability, UI, smoke, sanity), 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="Footer"/>
 </p>
-
