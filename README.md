@@ -1,4 +1,4 @@
-<!-- Hero -->
+<!-- Hero Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Know%20Me!🕹️&fontSize=45&fontAlignY=35&animation=twinkling" alt="Banner"/>
 </p>
@@ -10,7 +10,7 @@
 <h1 align="center">Software QA · Frontend Developer · Data Wrangler</h1>
 
 <p align="center">
-  Testing digital experiences end-to-end while crafting performant, human-centered interfaces powered by modern web stacks.
+  Crafting seamless digital experiences while building performant, human-centered interfaces using modern web technologies.
 </p>
 
 <p align="center">
@@ -21,9 +21,16 @@
 
 ---
 
-## 🎯 Focus in One Breath
+## 🎯 Professional Focus
 
-Cover the core QA surface (blackbox, functional, usability, UI, smoke, sanity), stretch into regression maps, exploratory dives, and light security pokes, keep bug writeups/test cases crisp, ship SvelteKit experiences with Tailwind, Skeleton UI, Motion One polish, tune funnels + booking flows for clarity/validation/analytics, pivot to Next.js, React, or Vite when needed, and keep QA artifacts clean plus automated across spreadsheets, Notion, and Trello before they ever become reports.
+I specialize in **Software QA** and **Frontend Development**:
+
+- Conduct thorough testing: blackbox, functional, UI, usability, smoke, sanity, regression, exploratory, and light security testing.  
+- Write crisp bug reports and maintain detailed test cases.  
+- Build SvelteKit apps with Tailwind, Skeleton UI, and Motion One polish.  
+- Optimize funnels and booking flows for clarity, validation, and analytics.  
+- Pivot to Next.js, React, or Vite when needed.  
+- Maintain clean, automated QA artifacts across spreadsheets, Notion, and Trello.
 
 ---
 
@@ -37,7 +44,7 @@ Cover the core QA surface (blackbox, functional, usability, UI, smoke, sanity), 
 
 ---
 
-## 🧰 Tools & Tech
+## 🧰 Tools & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
