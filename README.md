@@ -84,6 +84,8 @@
   <img src="https://github-readme-stats-mu-ochre.vercel.app/api/top-langs/?username=LeiyJames&layout=compact&theme=tokyonight&langs_count=8&count_private=true&hide_border=true" height="150" alt="languages graph" />
 </div>
 
+<!-- 
+Streak and Trophies are currently down (500/503 Errors)
 <br/>
 
 <div align="center">
@@ -94,7 +96,8 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LeiyJames&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
+</div> 
+-->
 
 <br/>
 
