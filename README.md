@@ -5,7 +5,7 @@
   <br />
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3389FF&center=true&vCenter=true&width=435&lines=Software+QA+Engineer;Frontend+Developer;Data+Wrangler;Building+Seamless+Digital+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3389FF&center=true&vCenter=true&width=435&lines=Software+QA+Engineer;Web & Mobile Developer (AI);Data+Cleaning;Building+Seamless+Digital+Experiences" alt="Typing SVG" />
   </a>
 </div>
 
