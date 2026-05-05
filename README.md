@@ -1,13 +1,14 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20I'm%20Leigh%20James!&fontSize=50&animation=twinkling&fontAlignY=35" alt="Header" />
-  
-  <br />
-  
-  <div>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20I'm%20Leigh%20James!&fontSize=50&animation=twinkling&fontAlignY=35" />
+
+  <br /><br />
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3389FF&center=true&vCenter=true&width=435&lines=Software+QA+Engineer;Web+Mobile Dev;Data+Cleaning;Building+Seamless+Digital+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3389FF&center=true&vCenter=true&width=435&lines=Software+QA+Engineer;Web+Mobile+Dev;Data+Cleaning;Building+Seamless+Digital+Experiences" />
   </a>
+
 </div>
 
 <!-- Social & Intro -->
