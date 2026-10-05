@@ -28,7 +28,9 @@
   
   ## 🎯 About Me
   
-  I specialize in the intersection of **Quality Assurance** and **Frontend Development**. My goal is to build applications that not only look great but work flawlessly.
+ 
+My journey began in Quality Assurance, where I developed a sharp eye for detail and a deep understanding of software reliability. This background gives me a unique edge in Frontend Development, allowing me to build interfaces that are not only visually engaging but also robust and user-friendly. Beyond coding, I also have a strong interest in Data Analyst—transforming raw data into meaningful insights. I am driven by a passion for automation, continuous learning, and solving complex technical challenges efficiently.
+
   
   Here is what I bring to the table:
   <br/>
