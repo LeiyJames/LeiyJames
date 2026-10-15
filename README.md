@@ -30,7 +30,7 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00F2FE&center=false&vCenter=true&width=480&height=35&lines=Software+Quality+Assurance;Playwright+%26+Postman+Testing;Frontend+Developer+(Next.js%2C+React);Mobile+Developer+(Flutter+%26+Dart);Data+Analytics+(Python+%26+Telemetry);Focused+on+Writing+Dependable+Code" alt="Typing SVG" />
       </a>
       <p>
-        With a foundation in <b>Quality Assurance</b>, I've developed a close eye for detail and software reliability. I enjoy applying that perspective to <b>Frontend & Mobile Development</b> to build clean, user-friendly interfaces, while exploring <b>Data Analytics</b> to understand how systems and users interact. Always learning, improving, and focused on writing thoughtful, dependable code.
+        With a background in **Quality Assurance**, I bring a testing mindset to building reliable, user-focused software. I'm passionate about **Frontend & Mobile Development**, creating clean and intuitive interfaces, and exploring **Data Analytics** to turn data into meaningful insights. I continuously seek opportunities to learn new technologies, strengthen my skills, and build practical solutions that combine functionality, usability, and reliability.
       </p>
       <p>
         📍 <b>Cebu City, Philippines</b> &bull; 🌐 <i>Open to Full-Time & Freelance Opportunities</i>
