@@ -33,7 +33,7 @@
         With a foundation in <b>Quality Assurance</b>, I've developed a close eye for detail and software reliability. I enjoy applying that perspective to <b>Frontend & Mobile Development</b> to build clean, user-friendly interfaces, while exploring <b>Data Analytics</b> to understand how systems and users interact. Always learning, improving, and focused on writing thoughtful, dependable code.
       </p>
       <p>
-        📍 <b>Ozamiz City, Philippines</b> &bull; 🌐 <i>Open to Full-Time & Freelance Opportunities</i>
+        📍 <b>Cebu City, Philippines</b> &bull; 🌐 <i>Open to Full-Time & Freelance Opportunities</i>
       </p>
       <p>
         <a href="https://leighpresno-iota.vercel.app/" target="_blank">
