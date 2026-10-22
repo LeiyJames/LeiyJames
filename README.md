@@ -90,8 +90,8 @@ availability: Open to Full-Time & Freelance Software Roles
       <p><b>Testing & Verification</b></p>
       <ul align="left">
         <li><b>Playwright</b> Automated End-to-End Tests</li>
-        <li><b>Postman</b> API Testing & Schema Checks</li>
-        <li><b>Functional & Regression</b> Testing</li>
+        <li><b>Postman</b> API Testing</li>
+        <li><b> Mobile/Web Functional & Regression</b> Testing</li>
         <li><b>Test Cases</b> & Defect Documentation (Jira)</li>
         <li><b>Burp Suite</b> Basic Web Security Checks</li>
       </ul>
@@ -100,8 +100,8 @@ availability: Open to Full-Time & Freelance Software Roles
       <h3>🎨 Frontend & Mobile</h3>
       <p><b>User-Centered Interfaces</b></p>
       <ul align="left">
-        <li><b>Next.js & React</b> Component Architecture</li>
-        <li><b>TypeScript & JavaScript</b> Type Safety</li>
+        <li><b>Next.js & React</li>
+        <li><b>TypeScript & JavaScript</li>
         <li><b>Flutter & Dart</b> Cross-Platform Apps</li>
         <li><b>Tailwind CSS</b> Responsive Design</li>
         <li><b>Semantic HTML</b> & Usability Standards</li>
