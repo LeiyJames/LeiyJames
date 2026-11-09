@@ -264,6 +264,26 @@ availability: Open to Full-Time & Freelance Software Roles
 <br />
 
 <!-- ======================================================== -->
+<!-- ======================================================== -->
+<!-- GIT-KOI:START -->
+<!-- 🐟 GITHUB ACTIVITY KOI                                    -->
+<!-- ======================================================== -->
+
+## 🐟 GitHub Activity Koi
+
+<div align="center">
+
+  <img src="koi/koi.gif" width="256" alt="Pixel-art koi generated from my public GitHub activity" />
+
+  <p><sub>A little koi, shaped by my GitHub activity — languages, contributions, and streaks.</sub></p>
+  <p><a href="https://github.com/yalongwastaken/git-koi">Powered by git-koi</a></p>
+
+</div>
+
+<!-- GIT-KOI:END -->
+
+<br />
+
 <!-- 🌊 MINIMAL SLICE FOOTER (CLEAN & NON-COMMON)             -->
 <!-- ======================================================== -->
 
